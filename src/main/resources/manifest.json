@@ -1,0 +1,20 @@
+{
+  "Group": "dev.hytalemodding",
+  "Name": "DuelsPlugin",
+  "Version": "1.0.0",
+  "Description": "Plugin para servidor Hytale que permite duelos controlados entre jogadores em um ambiente onde o PvP global está desativado.",
+  "Authors": [
+    {
+      "Name": "Renonn",
+      "Email": "",
+      "Url": ""
+    }
+  ],
+  "Website": "",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "Main": "dev.hytalemodding.DuelsPlugin"
+}
